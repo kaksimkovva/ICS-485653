@@ -1,0 +1,92 @@
+[
+    {
+        "productID": 10,
+        "name": "План розрахунків бухгалтерського обліку підприємств",
+        "price": 40,
+        "client": "КНТЕУ",
+        "orderID": 202,
+        "quantity": 10,
+        "sum": 400
+    },
+    {
+        "productID": 10,
+        "name": "План розрахунків бухгалтерського обліку підприємств",
+        "price": 40,
+        "client": "КНУ",
+        "orderID": 204,
+        "quantity": 5,
+        "sum": 200
+    },
+    {
+        "productID": 20,
+        "name": "ППП \"УЗПИКС\"",
+        "price": 900,
+        "client": "КНЕУ",
+        "orderID": 203,
+        "quantity": 10,
+        "sum": 9000
+    },
+    {
+        "productID": 20,
+        "name": "ППП \"УЗПИКС\"",
+        "price": 900,
+        "client": "КНЕУ",
+        "orderID": 211,
+        "quantity": 5,
+        "sum": 4500
+    },
+    {
+        "productID": 30,
+        "name": "ППП УТЕП",
+        "price": 900,
+        "client": "КНУ",
+        "orderID": 205,
+        "quantity": 5,
+        "sum": 4500
+    },
+    {
+        "productID": 30,
+        "name": "ППП УТЕП",
+        "price": 900,
+        "client": "КНТЕУ",
+        "orderID": 206,
+        "quantity": 5,
+        "sum": 4500
+    },
+    {
+        "productID": 40,
+        "name": "ППП УОС",
+        "price": 600,
+        "client": "КНТЕУ",
+        "orderID": 207,
+        "quantity": 10,
+        "sum": 6000
+    },
+    {
+        "productID": 50,
+        "name": "ППП УФРО",
+        "price": 1245,
+        "client": "КНЕУ",
+        "orderID": 210,
+        "quantity": 3,
+        "sum": 3735
+    },
+    {
+        "productID": 60,
+        "name": "АРМ бухгалтера матеріально-технічного відділу",
+        "price": 500,
+        "client": "КНУ",
+        "orderID": 212,
+        "quantity": 4,
+        "sum": 2000
+    },
+    {
+        "productID": 70,
+        "name": "АРМ бухгалтера фінансового відділу",
+        "price": 500,
+        "client": "КНТЕУ",
+        "orderID": 213,
+        "quantity": 5,
+        "sum": 2500
+    }
+]
